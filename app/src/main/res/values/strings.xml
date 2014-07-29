@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Block Number</string>
+    <string name="title_activity_block_number_blacklist_view">Blacklist</string>
+    <string name="title_activity_block_number_log">Blocked calls/sms log</string>
+</resources>
